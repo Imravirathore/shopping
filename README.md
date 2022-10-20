@@ -12,5 +12,5 @@ https://image-color-change.netlify.app/
 
 ## Demo
 
-<img src = 'images/website_video'>
+<img src = 'images/website-video.gif'>
 
