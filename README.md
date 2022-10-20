@@ -20,5 +20,5 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 ## Demo
 
-<img src = 'images/website_video.mp4'>
+<img src = 'images/website-video.gif'>
 
