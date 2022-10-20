@@ -1,0 +1,157 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none !important;
+}
+
+body
+{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+/* BootStrap */
+
+.header
+{
+    
+    height: 100vh;
+    width: 100%;
+}
+
+.navbar
+{
+    height: 80px;
+   
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.navbar .logo
+{
+ 
+  font-size: 20px;
+  font-weight: bold;
+  color: black;
+  
+}
+
+.fa-shirt
+{
+    color: blue;
+}
+
+.cart i
+{
+    color: black;
+    font-size: 20px;
+    margin: 0 10px;
+}
+
+.part_2
+{
+    margin-top:40px;
+    /* background-color: yellow; */
+}
+
+.content h1
+{
+    font-weight: bold;
+    line-height: 50px;
+}
+
+.content p
+{
+    margin: 20px 0;
+    line-height: 30px;
+}
+
+h6
+{
+    margin-top: 30px;
+}
+
+.colors
+{
+    display: flex;
+    margin-top: 20px;
+    position: relative;
+    z-index: 99;
+   
+}
+
+#btn
+{
+    background-color: blue;
+    border: none;
+}
+
+.same
+{
+    width: 25px;
+    height: 25px;
+    border-radius: 50px;
+    cursor: pointer;
+   margin-right: 15px;
+  
+   -webkit-border-radius: 125px;
+border-radius: 125px;
+background: #ffffff;
+-webkit-box-shadow: 17px 17px 29px #adadad, -17px -17px 29px #ffffff;
+box-shadow: 17px 17px 29px #adadad, -17px -17px 29px #ffffff;
+}
+
+
+.blue
+{
+    background-color: blue;
+    
+    
+}
+
+.pink
+{
+    background-color: #D7018F;
+}
+
+.purple
+{
+    background-color: #B90AE1;
+}
+
+.red
+{
+    background-color: #DF071A;
+}
+
+.green
+{
+    background-color: #8EE103;
+}
+
+/* .main_img
+{
+    border: 1px solid red;
+} */
+
+.main_img img
+{
+    width: 300px;
+    display: block;
+    margin: -25px auto;
+   
+}
+
+.tshirt_bold
+{
+    color: blue;
+   
+    
+}
+
+
+
